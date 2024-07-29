@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<YealinkIPPhoneBook>
+    <Title>Yealink</Title>
+    <Menu Name="DEP_1" Number="+7 (9999) 999-999">
+        <Unit Name="John Doe" Middle="A" Phone1="111" Phone2="+7 (999) 234-5678" Phone3="+7 (999) 345-6789" Email="john.doe@example.com" JobTitle="Manager" default_photo="Resource:"/>
+        <Unit Name="Jane Smith" Middle="B" Phone1="123" Phone2="+7 (999) 876-5432" Phone3="" Email="jane.smith@example.com" JobTitle="Developer" default_photo="Resource:"/>
+        <Unit Name="Alice Johnson" Middle="C" Phone1="134" Phone2="+7 (999) 567-8901" Phone3="+7 (999) 678-9012" Email="alice.johnson@example.com" JobTitle="Designer" default_photo="Resource:"/>
+    </Menu>
+    <Menu Name="DEP_2" Number="+7 (0000) 000-000">
+        <Unit Name="Bob Brown" Middle="D" Phone1="001" Phone2="+7 (000) 234-5678" Phone3="+7 (000) 345-6789" Email="bob.brown@example.com" JobTitle="Analyst" default_photo="Resource:"/>
+        <Unit Name="Charlie Davis" Middle="E" Phone1="002" Phone2="+7 (000) 876-5432" Phone3="+7 (000) 765-4321" Email="charlie.davis@example.com" JobTitle="Consultant" default_photo="Resource:"/>
+        <Unit Name="Diana Evans" Middle="F" Phone1="003" Phone2="+7 (000) 567-8901" Phone3="+7 (000) 678-9012" Email="diana.evans@example.com" JobTitle="HR" default_photo="Resource:"/>
+        <Unit Name="Evan Foster" Middle="G" Phone1="004" Phone2="+7 (000) 432-7658" Phone3="+7 (000) 543-8769" Email="evan.foster@example.com" JobTitle="Support" default_photo="Resource:"/>
+        <Unit Name="Fiona Green" Middle="H" Phone1="005" Phone2="+7 (000) 765-4321" Phone3="+7 (000) 876-5432" Email="fiona.green@example.com" JobTitle="Marketing" default_photo="Resource:"/>
+        <Unit Name="George Harris" Middle="I" Phone1="006" Phone2="+7 (000) 890-1234" Phone3="+7 (000) 901-2345" Email="george.harris@example.com" JobTitle="Sales" default_photo="Resource:"/>
+    </Menu>
+</YealinkIPPhoneBook>
