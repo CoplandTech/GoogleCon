@@ -1,11 +1,6 @@
 # Импорт контактов из сервиса [GOOGLE CONTACTS](https://contacts.google.com/)
 
 Этот проект предназначен для импорта из сервиса [GOOGLE CONTACTS](https://contacts.google.com/) и создания телефонной книги в форматах .XML и .JSON
-Он включает в себя:
-1. Чтение контактов из [GOOGLE CONTACTS](https://contacts.google.com/)
-2. Cоздания .XML файла
-3. Cоздания .JSON файла
-4. Поднятие FLASK для HTTP(S) GET.
 
 ## Оглавление
 
